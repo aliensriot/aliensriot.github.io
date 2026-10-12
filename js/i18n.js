@@ -104,7 +104,7 @@ const I18N = {
     "thrift.eco.card.photo": "в процессе\nразработки",
       "thrift.eco.card1.title": "кардхолдер",
     "thrift.eco.card2.title": "обложка на паспорт",
-    "thrift.eco.card3.title": "кошелёк",
+    "thrift.eco.card3.title": "обложка на паспор",
     "thrift.eco.card.tag": "из вторсырья",
     "thrift.eco.cta": "спросить про эко-линию",
 
@@ -244,7 +244,7 @@ const I18N = {
     "thrift.eco.card.photo": "in\nprogress",
       "thrift.eco.card1.title": "card holder",
     "thrift.eco.card2.title": "passport cover",
-    "thrift.eco.card3.title": "wallet",
+    "thrift.eco.card3.title": "passport cover",
     "thrift.eco.card.tag": "upcycled",
     "thrift.eco.cta": "ask about the eco line",
 
